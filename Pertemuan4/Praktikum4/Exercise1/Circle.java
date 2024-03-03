@@ -1,3 +1,4 @@
+package Exercise1;
 public class Circle {
     private double radius;
     private String color;
@@ -26,9 +27,11 @@ public class Circle {
     public void setColor(String color) {
         this.color = color;
     }
+
     public String getColor() {
         return color;
     }
+    
     public void setRadius(double radius) {
         this.radius = radius;
     }
@@ -38,7 +41,7 @@ public class Circle {
         return "Circle[radius=" + radius + " color=" + color + "]";    
     } 
 
-     /** Returns the area of this Circle instance */ 
+     /** Returns the area f this Circle instance */ 
      public double getArea(){
         return radius*radius*Math.PI;
     }

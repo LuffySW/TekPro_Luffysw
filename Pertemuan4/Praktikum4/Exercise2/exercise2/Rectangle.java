@@ -1,4 +1,4 @@
-package Praktikum4.Exercise2;
+package exercise2;
 
 public class Rectangle extends Shape {
     private double width;

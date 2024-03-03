@@ -1,4 +1,4 @@
-package Praktikum4.Exercise2;
+package exercise2;
 
 public class Circle extends Shape {
     private double radius;

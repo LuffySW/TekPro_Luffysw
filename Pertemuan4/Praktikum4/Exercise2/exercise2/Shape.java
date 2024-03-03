@@ -1,4 +1,4 @@
-package Praktikum4.Exercise2;
+package exercise2;
 
 public class Shape {
     private String color;
@@ -31,6 +31,6 @@ public class Shape {
     }
 
     public String toString(){
-        return "Shape[color=" + color + " filled=" + filled + "]";
+        return "A Shape with color of " + color + " And " + filled + "]";
     }
 }
