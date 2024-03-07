@@ -1,0 +1,117 @@
+******************************************************
+Number of employees working as MANAGER are: 8
+******************************************************
+1. Manager Details:
+Store Details: 
+Employee Name: Sarah
+Base Pay: $704561.0
+Number of Hours worked: 17.607849340818554hrs
+Payment Rate per hour: $484410.0/hr
+Total Sales in store: $325451.0
+Sales done: $326873.0
+Percentage of sales done: 100.44%
+Gross Payment: $10619076.2
+Remaining store revenue: $-9822228.917360611
+2. Manager Details:
+Store Details: 
+Employee Name: Emily
+Base Pay: $633093.0
+Number of Hours worked: 3.9060684519164335hrs
+Payment Rate per hour: $12132.0/hr
+Total Sales in store: $307211.0
+Sales done: $171727.0
+Percentage of sales done: 55.90%
+Gross Payment: $782553.6
+Remaining store revenue: $-492434.5670360752
+3. Manager Details:
+Store Details: 
+Employee Name: Alice
+Base Pay: $561844.0
+Number of Hours worked: 4.037327784181817hrs
+Payment Rate per hour: $199296.0/hr
+Total Sales in store: $62970.0
+Sales done: $771368.0
+Percentage of sales done: 1224.98%
+Gross Payment: $1571437.4
+Remaining store revenue: $-1502110.3380898668
+4. Manager Details:
+Store Details: 
+Employee Name: Bob
+Base Pay: $28931.0
+Number of Hours worked: 39.35447385511111hrs
+Payment Rate per hour: $41534.0/hr
+Total Sales in store: $996750.0
+Sales done: $898789.0
+Percentage of sales done: 90.17%
+Gross Payment: $1913001.7
+Remaining store revenue: $-1003006.8409297668
+5. Manager Details:
+Store Details: 
+Employee Name: David
+Base Pay: $743378.0
+Number of Hours worked: 37.21337472903129hrs
+Payment Rate per hour: $493275.0/hr
+Total Sales in store: $279666.0
+Sales done: $744319.0
+Percentage of sales done: 266.15%
+Gross Payment: $21964776.2
+Remaining store revenue: $-2.0638050298763223E7
+6. Manager Details:
+Store Details: 
+Employee Name: Bob
+Base Pay: $663497.0
+Number of Hours worked: 15.473476205344516hrs
+Payment Rate per hour: $16081.0/hr
+Total Sales in store: $610892.0
+Sales done: $268957.0
+Percentage of sales done: 44.03%
+Gross Payment: $1049174.9
+Remaining store revenue: $-497617.3591625236
+7. Manager Details:
+Store Details: 
+Employee Name: John
+Base Pay: $798730.0
+Number of Hours worked: 35.627112292609546hrs
+Payment Rate per hour: $221937.0/hr
+Total Sales in store: $520548.0
+Sales done: $373748.0
+Percentage of sales done: 71.80%
+Gross Payment: $10011560.1
+Remaining store revenue: $-9085694.363816736
+8. Manager Details:
+Store Details: 
+Employee Name: Emily
+Base Pay: $17967.0
+Number of Hours worked: 31.87774826860194hrs
+Payment Rate per hour: $485628.0/hr
+Total Sales in store: $220188.0
+Sales done: $385556.0
+Percentage of sales done: 175.10%
+Gross Payment: $17823498.3
+Remaining store revenue: $-1.7105112479313947E7
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 0
+******************************************************
+******************************************************
+Number of employees working as CASHIER are: 2
+******************************************************
+1. Cashier Details:
+Store Details: 
+Employee Name: David
+Base Pay: $695532.0
+Number of Hours worked: 30.640476756661176hrs
+Payment Rate per hour: $74815.0/hr
+
+Number of Transactions: 49
+Total commission: $24.5
+Gross Payment: $695556.5
+2. Cashier Details:
+Store Details: 
+Employee Name: Alice
+Base Pay: $4707.0
+Number of Hours worked: 1.7983394703508582hrs
+Payment Rate per hour: $476774.0/hr
+
+Number of Transactions: 87
+Total commission: $43.5
+Gross Payment: $4750.5
